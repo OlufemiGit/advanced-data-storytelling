@@ -33,12 +33,11 @@ Each country's happiness score is derived from a life evaluation question known 
 # **Dashboard Features**
 Built in Tableau Public, the dashboard includes:
 
--Introduction page with project context and data description
--Visuals from exploratory analysis
--Hypotheses and research questions
--Geospatial insights
--Results from regression, clustering, and time-series analysis
--Summary of findings, limitations, and next steps
+- Introduction page with project context, Hypotheses, research questions and data source
+- Visuals from exploratory analysis 
+- Geospatial insights
+- Results from regression, clustering, and time-series analysis
+- Summary of findings, limitations, and next steps
 
  # **Repository Contents**
 - Clean, well-commented Python scripts (Jupyter notebooks)
